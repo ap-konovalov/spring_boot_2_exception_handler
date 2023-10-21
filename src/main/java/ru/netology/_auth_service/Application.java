@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 //https://github.com/netology-code/jd-homeworks/blob/master/spring_boot_rest/task1/README.md
+//https://github.com/netology-code/jd-homeworks/blob/master/spring_boot_rest/task2/README.md
 public class Application {
 
 	public static void main(String[] args) {
