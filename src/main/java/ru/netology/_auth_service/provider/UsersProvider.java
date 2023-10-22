@@ -8,7 +8,7 @@ public class UsersProvider {
 
     public User getUser(String userName, String password) {
         return User.builder()
-                .userName(userName)
+                .user(userName)
                 .password(password)
                 .build();
     }
