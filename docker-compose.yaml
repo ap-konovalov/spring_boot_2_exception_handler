@@ -1,0 +1,7 @@
+version: '3'
+services:
+  auth_app:
+    image: myapp
+    ports:
+      - '8083'
+    build: ./
